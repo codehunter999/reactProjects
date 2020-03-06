@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init -y
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\app\ages3\product\11.2.0\dbhome_2\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Users\ages3\AppData\Local\Microsoft\WindowsApps;C:\Users\ages3\AppData\Local\GitHubDesktop\bin;C:\Users\ages3\AppData\Local\Yarn\bin;C:\Users\ages3\AppData\Roaming\npm;F:\Microsoft VS Code\bin
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  12.14.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: F:\reactProject\vanilla-redux\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:310:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
